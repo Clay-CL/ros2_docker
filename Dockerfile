@@ -1,4 +1,4 @@
-FROM ubuntu:24.04
+FROM osrf/ros:jazzy-desktop-full
 # Use bash as the default shell
 SHELL ["/bin/bash", "-c"]
 
